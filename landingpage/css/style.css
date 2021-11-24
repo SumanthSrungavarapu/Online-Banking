@@ -1,9 +1,3 @@
-/*--A Design by W3layouts 
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
 body a {
   transition: 0.5s all;
   -webkit-transition: 0.5s all;
@@ -22,14 +16,6 @@ body{
 .w3layouts-banner-top{
     background: url(../images/2.jpg) no-repeat 0px 0px;
     background-size: cover;
-}
-.w3layouts-banner-top1{
-	background: url(../images/4.jpg) no-repeat 0px 0px;
-    background-size: cover;	
-}
-.w3layouts-banner-top2{
-	background: url(../images/3.jpg) no-repeat 0px 0px;
-    background-size: cover;	
 }
 .agileinfo-dot{
 	background: url(../images/dott.png)repeat 0px 0px;
