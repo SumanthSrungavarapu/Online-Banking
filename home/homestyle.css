@@ -11,7 +11,6 @@ p.main{
 }
 
 
-
 .row{
   width: 100%;
 }
@@ -39,7 +38,9 @@ p.inside{
   border-top: 0;
   border-right: 0;
   overflow: hidden;
-  color:white;
+  color:#8FD6E1;
+  font-size: 1.5em;
+  font-weight: bolder;
   background-color: rgba(255,255,255,0.13);
   border-radius: 10px;
   backdrop-filter: blur(10px);
@@ -307,12 +308,22 @@ ul li a:hover .name span{
   }
 
 
+  
+
+
+  
   .container:hover{
-    color: rgb(221, 150, 19);  
+    color: rgb(221, 150, 19); 
+    transform: scale(1.2,1.2);
+    transform-origin:center;
+
   }
   .container:active{
     color: #1845ad;
   }
   .container:visited{
     color:aliceblue;
+  }
+  .container{
+    color: white;
   }
