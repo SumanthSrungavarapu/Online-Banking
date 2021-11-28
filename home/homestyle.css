@@ -2,17 +2,22 @@
 	box-sizing: border-box;
 }
 
+footer{
+  font-size: 0.8em;
+  color: white;
+  padding-left: 5%;
+}
+.copyright{
+  text-align: center;
+}
+
+
 p.main{
   text-align: center;
   font-size: 50px;
 }
 .man{
   color: white;
-}
-
-
-.row{
-  width: 100%;
 }
 
 .container{
@@ -306,11 +311,6 @@ ul li a:hover .name span{
   .dropdown:hover .dropdown-content {
     display: block;
   }
-
-
-  
-
-
   
   .container:hover{
     color: rgb(221, 150, 19); 
